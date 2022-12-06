@@ -1,0 +1,257 @@
+[
+    {
+      "open": [
+        {
+          "start": "2022-12-06T08:30:00",
+          "finish": "2022-12-06T15:00:00",
+          "cabinet": "00000000-0000-0000-0000-000000000000",
+          "cab_approwed": false
+        }
+      ],
+      "reserved": [
+        {
+          "start": "2022-12-06T08:30:00",
+          "finish": "2022-12-06T09:00:00",
+          "comment": "",
+          "cause": "",
+          "patient": {
+            "name": "",
+            "ref": "00000000-0000-0000-0000-000000000000",
+            "phone": "",
+            "status": "regular",
+            "is_insurance": false,
+            "have_debdt": false,
+            "card": ""
+          },
+          "window_info": "кабинет 3 МИКРОСКОП",
+          "cause_ref": "",
+          "preentry_ref": "3267dd72-61ca-11ed-f98a-5a6d043c8191",
+          "cancelled_by_sms": null,
+          "confirmed": false,
+          "status": "Запланировано"
+        },
+        {
+          "start": "2022-12-06T10:00:00",
+          "finish": "2022-12-06T11:00:00",
+          "comment": "",
+          "cause": "лечение",
+          "patient": {
+            "name": "Артемьева Наталья Евгеньевна",
+            "ref": "28026da8-4b7d-11eb-519a-5a6d043c8191",
+            "phone": "+7 (921) 9127537",
+            "status": "regular",
+            "is_insurance": false,
+            "have_debdt": false,
+            "card": "000030017513"
+          },
+          "window_info": "",
+          "cause_ref": "1a28ec0e-92ed-11eb-b18c-5a6d043c8191",
+          "preentry_ref": "7c20a4b6-6da1-11ed-5f97-6a03018d8aa6",
+          "cancelled_by_sms": null,
+          "confirmed": false,
+          "status": "Запланировано"
+        },
+        {
+          "start": "2022-12-06T12:30:00",
+          "finish": "2022-12-06T13:30:00",
+          "comment": "",
+          "cause": "лечение",
+          "patient": {
+            "name": "Бондарева Наталья Евгеньевна",
+            "ref": "3b93604c-f910-11ec-0c9c-5a6d043c8191",
+            "phone": "+7 (911) 1404725",
+            "status": "regular",
+            "is_insurance": false,
+            "have_debdt": false,
+            "card": "000030027608"
+          },
+          "window_info": "",
+          "cause_ref": "8d22e9ba-0879-11e7-936a-8c89a566419f",
+          "preentry_ref": "71c6ccb2-6cc9-11ed-ac83-6a03018d8aa6",
+          "cancelled_by_sms": null,
+          "confirmed": false,
+          "status": "Запланировано"
+        }
+      ]
+    },
+    {
+      "open": [
+        {
+          "start": "2022-12-06T09:30:00",
+          "finish": "2022-12-06T21:00:00",
+          "cabinet": "00000000-0000-0000-0000-000000000000",
+          "cab_approwed": false
+        }
+      ],
+      "reserved": [
+        {
+          "start": "2022-12-06T08:30:00",
+          "finish": "2022-12-06T09:15:00",
+          "comment": "",
+          "cause": "",
+          "patient": {
+            "name": "",
+            "ref": "00000000-0000-0000-0000-000000000000",
+            "phone": "",
+            "status": "regular",
+            "is_insurance": false,
+            "have_debdt": false,
+            "card": ""
+          },
+          "window_info": "переписать, смена закрыта",
+          "cause_ref": "",
+          "preentry_ref": "b5e71f9e-6a82-11ed-b897-5bb28b9cfc81",
+          "cancelled_by_sms": null,
+          "confirmed": false,
+          "status": "Запланировано"
+        },
+        {
+          "start": "2022-12-06T09:30:00",
+          "finish": "2022-12-06T10:00:00",
+          "comment": "",
+          "cause": "",
+          "patient": {
+            "name": "",
+            "ref": "00000000-0000-0000-0000-000000000000",
+            "phone": "",
+            "status": "regular",
+            "is_insurance": false,
+            "have_debdt": false,
+            "card": ""
+          },
+          "window_info": "кабинет 4",
+          "cause_ref": "",
+          "preentry_ref": "0d1b1d1a-5f43-11ed-1787-5a6d043c8191",
+          "cancelled_by_sms": null,
+          "confirmed": false,
+          "status": "Запланировано"
+        },
+        {
+          "start": "2022-12-06T10:00:00",
+          "finish": "2022-12-06T12:00:00",
+          "comment": "",
+          "cause": "",
+          "patient": {
+            "name": "",
+            "ref": "00000000-0000-0000-0000-000000000000",
+            "phone": "",
+            "status": "regular",
+            "is_insurance": false,
+            "have_debdt": false,
+            "card": ""
+          },
+          "window_info": "",
+          "cause_ref": "",
+          "preentry_ref": "cea8a404-6a63-11ed-b897-5bb28b9cfc81",
+          "cancelled_by_sms": null,
+          "confirmed": false,
+          "status": "Запланировано"
+        },
+        {
+          "start": "2022-12-06T17:30:00",
+          "finish": "2022-12-06T17:45:00",
+          "comment": "",
+          "cause": "Профосмотр",
+          "patient": {
+            "name": "Карелина Светлана Григорьевна",
+            "ref": "c282e4be-4313-11ec-b39d-5a6d043c8191",
+            "phone": "+7 (911) 7914705",
+            "status": "first_time",
+            "is_insurance": false,
+            "have_debdt": false,
+            "card": "000030022504"
+          },
+          "window_info": "",
+          "cause_ref": "ba9135ee-4c24-11eb-519a-5a6d043c8191",
+          "preentry_ref": "611dc638-6fb5-11ed-9e9b-6a03018d8aa6",
+          "cancelled_by_sms": null,
+          "confirmed": false,
+          "status": "Запланировано"
+        },
+        {
+          "start": "2022-12-06T18:00:00",
+          "finish": "2022-12-06T18:30:00",
+          "comment": "",
+          "cause": "Консультация",
+          "patient": {
+            "name": "Касумов Рауф Рафикович",
+            "ref": "3edb8382-9e04-11eb-b18c-5a6d043c8191",
+            "phone": "+7 (921) 7733243",
+            "status": "regular",
+            "is_insurance": false,
+            "have_debdt": false,
+            "card": "000030016209"
+          },
+          "window_info": "",
+          "cause_ref": "eeb87944-fc9d-11ea-409e-5a6d043c8191",
+          "preentry_ref": "c63fa9dc-6ff6-11ed-9e9b-6a03018d8aa6",
+          "cancelled_by_sms": null,
+          "confirmed": false,
+          "status": "Запланировано"
+        },
+        {
+          "start": "2022-12-06T18:30:00",
+          "finish": "2022-12-06T19:00:00",
+          "comment": "от МИА",
+          "cause": "Консультация",
+          "patient": {
+            "name": "Борисенко Ирина Алексеевна",
+            "ref": "38f85dbc-4b7c-11eb-519a-5a6d043c8191",
+            "phone": "+7 (911) 0165335",
+            "status": "regular",
+            "is_insurance": false,
+            "have_debdt": false,
+            "card": "000030023946"
+          },
+          "window_info": "",
+          "cause_ref": "eeb87944-fc9d-11ea-409e-5a6d043c8191",
+          "preentry_ref": "b0594ab8-68b4-11ed-b897-5bb28b9cfc81",
+          "cancelled_by_sms": null,
+          "confirmed": false,
+          "status": "Запланировано"
+        },
+        {
+          "start": "2022-12-06T19:00:00",
+          "finish": "2022-12-06T19:30:00",
+          "comment": "Консультация + приц.снимок. Хотела именно к вам!",
+          "cause": "Консультация",
+          "patient": {
+            "name": "Руотси Екатерина Робертовна",
+            "ref": "f56be3f4-5f2c-11ed-1787-5a6d043c8191",
+            "phone": "+7 (953) 1513989",
+            "status": "first_time",
+            "is_insurance": false,
+            "have_debdt": false,
+            "card": ""
+          },
+          "window_info": "",
+          "cause_ref": "eeb87944-fc9d-11ea-409e-5a6d043c8191",
+          "preentry_ref": "3243dc64-6194-11ed-f98a-5a6d043c8191",
+          "cancelled_by_sms": null,
+          "confirmed": false,
+          "status": "Запланировано"
+        },
+        {
+          "start": "2022-12-06T19:30:00",
+          "finish": "2022-12-06T20:30:00",
+          "comment": "",
+          "cause": "AIR FLOW  Prophylaxis  ",
+          "patient": {
+            "name": "Замет Петр Алексеевич",
+            "ref": "f006c8d0-4b6e-11eb-519a-5a6d043c8191",
+            "phone": "+7 (911) 0913788",
+            "status": "first_time",
+            "is_insurance": false,
+            "have_debdt": false,
+            "card": ""
+          },
+          "window_info": "",
+          "cause_ref": "2fc8f0d8-ec56-11ea-9b9a-5a6d043c8191",
+          "preentry_ref": "07711bb8-6e5b-11ed-0092-6a03018d8aa6",
+          "cancelled_by_sms": null,
+          "confirmed": false,
+          "status": "Запланировано"
+        }
+      ]
+    }
+  ]
